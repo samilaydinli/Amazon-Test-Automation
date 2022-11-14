@@ -1,7 +1,7 @@
 # Amazon-Test-Automation 
-    -The purpose of this project is adding a product to the basket on the shopping site amazon.com and ensure the control. 
-     In the project, by searching the keyword specified in the project in the navigation bar of the website, it selects a product and adds it to the basket. 
-     The project consists of four stages, and after each stage, it passes the next stage by making the necessary controls.
+   -The purpose of this project is adding a product to the basket on the shopping site amazon.com and ensure the control. 
+    In the project, by searching the keyword specified in the project in the navigation bar of the website, it selects a product and adds it to the basket. 
+    The project consists of four stages, and after each stage, it passes the next stage by making the necessary controls.
     -Selenium, JUnit, Java are used in this project.
   
 ## Test Steps
